@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Flutter/ web development
-- 🤔 I’m looking for help with backend  <img align="right" alt="GIF" src="https://media.giphy.com/media/x0BxIbatCbl3aRXIWv/giphy.gif" width="60%" height="90%"/>
+- 🤔 I’m looking for help with backend  <img align="right" alt="GIF" src="https://media.giphy.com/media/x0BxIbatCbl3aRXIWv/giphy.gif" width="50%" height="90%"/>
 - 💬 Ask me about ...anything
 
 ### Tech Skills:
@@ -14,7 +14,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sanjanarp&theme=gotham&show_icons=true&count_private=true)
 
 
-## Connect with me on:
+##       Connect with me on:
 <div align="center">
 <a href="https://github.com/sanjanarp" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
