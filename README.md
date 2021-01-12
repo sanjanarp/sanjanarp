@@ -3,9 +3,8 @@
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Flutter/ web development
-- 🤔 I’m looking for help with backend  <img align="right" alt="GIF" src="https://media.giphy.com/media/x0BxIbatCbl3aRXIWv/giphy.gif" width="50%" height="90%"/>
-- 💬 Ask me about ...anything
+- 👯 I’m looking to collaborate on Flutter/ web development  <img align="right" alt="GIF" src="https://media.giphy.com/media/x0BxIbatCbl3aRXIWv/giphy.gif" width="50%" height="90%"/>
+
 
 ### Tech Skills:
 
