@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Flutter  <img align="right" alt="GIF" src="https://media.giphy.com/media/x0BxIbatCbl3aRXIWv/giphy.gif" width="50%" height="90%"/>
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Node.js and React
 - 👯 I’m looking to collaborate on Flutter/ web development 
 ### Tech Skills:
 
