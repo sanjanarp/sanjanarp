@@ -50,7 +50,6 @@ I love turning ideas into smooth, functional apps and constantly improving my sk
       </ul>
       <p align="center"><i>Flutter • Dart • Firebase</i></p>
     </td>
-
     <td width="50%" valign="top">
       <h3 align="center">🌐 Web Development</h3>
       <p align="center">Modern web applications using frontend & backend tools.</p>
