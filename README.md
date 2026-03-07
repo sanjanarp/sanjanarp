@@ -124,14 +124,6 @@ PyTorch • Computer Vision • GANs • NLP • RAG • Prompt Engineering • 
 <img src="https://streak-stats.demolab.com?user=sanjanarp&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanarp&theme=tokyo-night"/>
-</p>
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,50:2575fc,100:6a11cb&height=140&section=footer" width="100%"/>
 </p>
