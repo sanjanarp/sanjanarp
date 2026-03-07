@@ -57,6 +57,7 @@ Python • Streamlit • Azure OpenAI • Prompt Engineering • Agentic AI
 <img src="https://img.shields.io/badge/GitHub-Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+---
 
 ### 💰 AI-Powered Personal Finance Manager
 
@@ -69,6 +70,7 @@ Python • Streamlit • OpenAI API • Docker • AWS • RAG
 <img src="https://img.shields.io/badge/GitHub-Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+---
 
 ### 🎤 AI Interview Bot
 
@@ -81,6 +83,7 @@ Python • Flask • HuggingFace • SQL • JavaScript
 <img src="https://img.shields.io/badge/GitHub-Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+---
 
 ### 🎨 EdgeConnect+ Image Inpainting
 
