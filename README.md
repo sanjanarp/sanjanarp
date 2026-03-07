@@ -118,22 +118,6 @@ PyTorch • Computer Vision • GANs • NLP • RAG • Prompt Engineering • 
 
 ---
 
-# 🌱 Currently Exploring
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/LLMOps-Exploring-6a11cb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLOps-Exploring-2575fc?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-Exploring-ff6ec4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG%20Systems-Exploring-7F7FFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Diffusion%20Models-Exploring-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multimodal%20AI-Exploring-00C6FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20System%20Design-Exploring-FF6EC4?style=for-the-badge"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
