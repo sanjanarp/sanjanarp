@@ -44,57 +44,57 @@ I enjoy building systems where **machine learning, computer vision, and large la
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🧠 AI Future Self Simulator
+<table>
+<tr>
+<td width="50%">
 
-Agentic AI system that helps users explore how major life decisions may unfold using LLM reasoning and scenario simulation.
-
-**Tech**  
+### 🧠 AI Future Self Simulator  
 Python • Streamlit • Azure OpenAI • Prompt Engineering • Agentic AI  
 
 <a href="https://github.com/sanjanarp/AI-Future-Self-Simulator">
-<img src="https://img.shields.io/badge/GitHub-Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-111827?style=flat&logo=github&logoColor=white"/>
 </a>
 
----
+</td>
 
-### 💰 AI-Powered Personal Finance Manager
+<td width="50%">
 
-AI financial assistant that analyzes spending patterns and generates **LLM-driven financial insights**.
-
-**Tech**  
+### 💰 AI-Powered Personal Finance Manager  
 Python • Streamlit • OpenAI API • Docker • AWS • RAG  
 
 <a href="https://github.com/sanjanarp/AI-Powered-Personal-Finance-Manager">
-<img src="https://img.shields.io/badge/GitHub-Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-111827?style=flat&logo=github&logoColor=white"/>
 </a>
 
----
+</td>
+</tr>
 
-### 🎤 AI Interview Bot
+<tr>
+<td width="50%">
 
-Interactive interview training platform using **NLP and facial analysis**.
-
-**Tech**  
+### 🎤 AI Interview Bot  
 Python • Flask • HuggingFace • SQL • JavaScript  
 
 <a href="https://github.com/sanjanarp/Interview-Bot">
-<img src="https://img.shields.io/badge/GitHub-Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-111827?style=flat&logo=github&logoColor=white"/>
 </a>
 
----
+</td>
 
-### 🎨 EdgeConnect+ Image Inpainting
+<td width="50%">
 
-Deep learning framework for restoring missing image regions using **edge guidance and color propagation**.
-
-**Tech**  
+### 🎨 EdgeConnect+ Image Inpainting  
 PyTorch • GANs • OpenCV • Computer Vision  
 
 <a href="https://github.com/Abhinaykotla/EdgeConnect_Plus_Inpainting_with_Edge_and_Color_Guidance">
-<img src="https://img.shields.io/badge/GitHub-Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-111827?style=flat&logo=github&logoColor=white"/>
 </a>
+
+</td>
+</tr>
+</table>
 
 ---
 
