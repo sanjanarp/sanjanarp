@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:ff6ec4&height=220&section=header&text=Sanjana%20Ravi%20Prakash&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:ff6ec4&height=240&section=header&text=Sanjana%20Ravi%20Prakash&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=60&descSize=20" width="100%"/>
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -145,24 +145,6 @@ PyTorch • Computer Vision • GANs • NLP • RAG • Prompt Engineering • 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanarp&theme=tokyo-night"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sanjanarp&theme=algolia&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sanjanarp&label=Profile%20Views&color=7F7FFF&style=for-the-badge"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,50:2575fc,100:6a11cb&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,50:2575fc,100:6a11cb&height=140&section=footer" width="100%"/>
 </p>
