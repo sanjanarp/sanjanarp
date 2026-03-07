@@ -1,12 +1,14 @@
 <!-- HEADER -->
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:ff6ec4&height=200&section=header&text=Sanjana%20Ravi%20Prakash&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:ff6ec4&height=170&section=header&text=Sanjana%20Ravi%20Prakash&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+</div>
+
 <!-- TYPING ANIMATION -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F7FFF&center=true&vCenter=true&width=700&lines=AI+Engineer;Computer+Vision+Researcher;LLM+Systems+Developer;Building+Intelligent+AI+Applications;Exploring+LLMOps+and+MLOps;Multimodal+AI+%7C+Generative+AI"/>
-</p>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F7FFF&center=true&vCenter=true&width=650&lines=AI+Engineer;Computer+Vision+Researcher;LLM+Systems+Developer;Building+Intelligent+AI+Applications;Exploring+LLMOps+and+MLOps;Multimodal+AI+%7C+Generative+AI"/>
+</div>
 
 ---
 
