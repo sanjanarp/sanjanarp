@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:ff6ec4&height=240&section=header&text=Sanjana%20Ravi%20Prakash&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:ff6ec4&height=200&section=header&text=Sanjana%20Ravi%20Prakash&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </p>
 <!-- TYPING ANIMATION -->
 <p align="center">
