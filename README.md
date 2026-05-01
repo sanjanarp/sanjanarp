@@ -99,7 +99,7 @@ PyTorch • GANs • OpenCV • Computer Vision
 ---
 
 ## 💼 Experience
-
+🧠 **Generative AI Engineer** @ TuDu
 🧪 **Graduate Research Assistant (Machine Learning & AI)** @ University of Texas at Arlington  
 💻 **Software Engineer** @ Accenture  
 🌐 **Web Developer** @ Geekbytes Solutions  
